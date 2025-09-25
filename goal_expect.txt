@@ -1,0 +1,8 @@
+1.apple ,macbook air m_cpu,
+2.apple ,ipad air m_cpu,
+3.apple ,iphone pro max,
+4.apple ,iwatch
+5.apple ,air pods
+6.car
+7.house
+----*----first:202509260610
