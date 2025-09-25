@@ -10,3 +10,4 @@
 202509251645 zhongLvJinGuiFu 15th,unit 12,from east to west.
 202509251724 zhongHaiCuiLanYunJing the door is open at north side.
 202509251753 battery level 40%.
+202509251813 have some time just work,when I need sleep and eat food ,go home.
