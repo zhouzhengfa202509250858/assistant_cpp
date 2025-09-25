@@ -1,2 +1,2 @@
 # Assistant_cpp
-help me life better,
+Help me life better,
