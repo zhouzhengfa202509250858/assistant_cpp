@@ -1,0 +1,2 @@
+pixel:aseprite.
+music:itch(multiple).
